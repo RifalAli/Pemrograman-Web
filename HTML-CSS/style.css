@@ -38,7 +38,7 @@ p::first-letter {
 }
 
 .warna {
-    background-image: linear-gradient(to right, red, yellow);
+    background-image: linear-gradient(to bottom, rgb(94, 255, 0), yellow);
     color: white;
 }
 
